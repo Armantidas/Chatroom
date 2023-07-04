@@ -1,2 +1,2 @@
 # Chatroom
-A simple Tic-Tac-Toe game
+A simple chatroom
