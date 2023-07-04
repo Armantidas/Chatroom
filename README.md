@@ -1,2 +1,2 @@
 # Chatroom
-A simple chatroom
+A simple chatroom made in c with linux libraries
